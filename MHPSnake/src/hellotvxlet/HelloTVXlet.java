@@ -7,6 +7,7 @@ import javax.tv.xlet.XletStateChangeException;
 
 public class HelloTVXlet implements Xlet {
 private Candy candy;
+private Segment segment;
     public void destroyXlet(boolean unconditional) throws XletStateChangeException {
        
     }
