@@ -17,7 +17,7 @@ public class MijnTimerTask extends TimerTask {
     
     public void run(){
         //System.out.println("Timer Method");
-        //if (xlet!=null) { xlet.callback(); }
+        if (xlet!=null) { xlet.callback(); }
         }
     }
 

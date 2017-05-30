@@ -1,7 +1,16 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
 package hellotvxlet;
 import org.havi.ui.*;
 import java.awt.*;
 
+/**
+ *
+ * @author student
+ */
 public class Candy extends HComponent  {
     public int x = 183;
     public int y = 100;
@@ -33,4 +42,3 @@ public class Candy extends HComponent  {
         
         }
 }
-
